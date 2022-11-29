@@ -1,11 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Distressed&display=swap');
+
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 
+html {
+    font-size: 62,5%;
+}
+
 .wrapper {
     height: 100vh;
     display: grid;
     grid-template-rows: auto 1fr auto auto;
+}
+
+.header {
+    font-size: 1rem;
+    padding: 0.5rem;
+    background: #608BF9;
+
+}
+
+.header ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header  .icon-menu {
+    width: 1rem;
+
+}
+
+.header h5 {
+    font-family: 'Rubik Distressed', cursive;
+    transform: rotate(-3deg);
+    font-weight: 400;
+}
+
+.header .icon-user {
+    width: 1rem;
+}
+
+.header a{
+    display: flex;
+    align-items: center;
 }
