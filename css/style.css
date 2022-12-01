@@ -70,8 +70,8 @@ html {
     justify-content: center;
     background: #23B9C2;
     border-radius: 4rem;
-    box-shadow:  18px 18px 30px #0A888F,
-    -18px -18px 30px #40FFFF;
+    box-shadow:  18px 18px 25px #0A888F,
+    -18px -18px 25px #40FFFF;
 }
 
 .principal-content figure img {
