@@ -13,10 +13,12 @@ html {
 }
 
 body {
-    width: 375px;
+    display: grid;
+    place-items: center;
 }
 
 .wrapper {
+    width: clamp(23ch,20%,34ch);
     height: 100vh;
     display: grid;
     grid-template-rows: auto 24rem auto auto;
