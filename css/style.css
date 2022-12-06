@@ -12,6 +12,10 @@ html {
     font-size: 62,5%;
 }
 
+body {
+    width: 375px;
+}
+
 .wrapper {
     height: 100vh;
     display: grid;
