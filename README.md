@@ -8,5 +8,6 @@ En este proyecto se hizo uso de:
 - Lenguaje de estilos con CSS3.
 - Display flex y CSS Grid para darle ubicación a la estructura principal del proyecto.
 - Se hizo uso de neomorfismo para los botones y para la imagen principal del proyecto para darle un toque más vanguardista.
+- Proximamente agregarle funcionalidades y dinamismo con JavaScript.
 
 [Este es mi primer proyecto](https://apoloseth.github.io/Reproductor-de-musica/ "Este es mi primer proyecto") de front-end con mucho amor y dedicación para todos :tw-1f64f: :tw-1f680:
